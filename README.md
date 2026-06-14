@@ -30,12 +30,20 @@ A full-stack task management web application built using React, Node.js, Express
 - MongoDB Atlas
 - Mongoose
 
-## Installation
+## Screenshots
 
-### Frontend
+### Home Page
 
-```bash
-cd frontend
-npm install
-npm run dev
-```
+![Home Page](./screenshots/home.png)
+
+### Mobile View
+
+![Mobile View](./screenshots/mobile.png)
+
+### Search Feature
+
+![Search Feature](./screenshots/search.png)
+
+## Live Demo
+
+https://student-task-manager-ten-peach.vercel.app/
